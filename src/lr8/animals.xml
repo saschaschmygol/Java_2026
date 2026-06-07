@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<animals>
+    <animal>
+        <name>Барсик</name>
+        <type>кот</type>
+        <age>3</age>
+        <owner>Алексей</owner>
+    </animal>
+    <animal>
+        <name>Шарик</name>
+        <type>собака</type>
+        <age>5</age>
+        <owner>Мария</owner>
+    </animal>
+    <animal>
+        <name>Кеша</name>
+        <type>попугай</type>
+        <age>2</age>
+        <owner>Иван</owner>
+    </animal>
+</animals>
